@@ -1,73 +1,122 @@
-# Welcome to your Lovable project
+# FootPrint Creator.ai - AI Intelligence for Sustainable, Efficient, and Responsible Businesses
 
-## Project info
+We build AI-powered solutions that help organizations automate workflows, improve decision-making, and create measurable operational and environmental impact.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Who We Are
 
-## How can I edit this code?
+FootPrint Creator.ai develops AI-driven products that help businesses operate smarter, communicate better, and reduce operational inefficiencies. Our focus is practical AI implementation — solutions that integrate into real workflows and deliver measurable business value.
 
-There are several ways of editing your application.
+We believe AI should not just optimize performance — it should help organizations build a smarter operational footprint.
 
-**Use Lovable**
+## What We Do
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### AI Solutions for Modern Business Operations
 
-Changes made via Lovable will be committed automatically to this repo.
+FootPrint Creator.ai designs AI products that support everyday business functions, including:
 
-**Use your preferred IDE**
+- **Content creation and publishing automation**
+- **AI-assisted communication and outbound engagement**
+- **Appointment scheduling and coordination**
+- **Business workflow automation and insights**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Our solutions combine automation, intelligence, and human oversight to ensure reliability and control.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Core Products
 
-Follow these steps:
+### EcoSense AI - AI Content Creation & Publishing Platform
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+EcoSense AI helps businesses create, approve, and publish content across multiple platforms quickly and consistently. From a simple image and caption, the system generates ready-to-publish content while maintaining human approval control.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**Key Capabilities:**
+- AI content generation from images and text
+- Multi-platform publishing workflow
+- Human approval process
+- Multi-language support
+- Automated content formatting
 
-# Step 3: Install the necessary dependencies.
-npm i
+**Business Benefits:**
+- Faster content production
+- Consistent brand messaging
+- Reduced marketing effort
+- Scalable publishing workflows
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### SustainBot - AI-Assisted Communication & Outbound Calling
 
-**Edit a file directly in GitHub**
+SustainBot is an AI-powered communication agent designed to support outreach, follow-ups, reminders, and customer engagement. It enables organizations to scale communication while maintaining compliance, oversight, and consistency.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Use Cases:**
+- Sales outreach
+- Appointment confirmations
+- Customer follow-ups
+- Feedback collection
+- Notification calls
 
-**Use GitHub Codespaces**
+**Key Capabilities:**
+- Natural AI voice interaction
+- Script-driven conversation flows
+- Real-time monitoring
+- Human escalation support
+- Call summaries and reporting
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Business Benefits:**
+- Scale outreach without hiring
+- Improve response rates
+- Reduce manual workload
+- Maintain messaging consistency
 
-## What technologies are used for this project?
+### FootprintPro - AI Scheduling & Appointment Coordination
 
-This project is built with:
+FootprintPro is an AI scheduling agent that manages appointment booking, confirmations, and calendar coordination automatically. It ensures accurate scheduling while reducing manual administrative effort.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Use Cases:**
+- Clinics and healthcare providers
+- Professional services
+- Corporate offices
+- Consultation booking
 
-## How can I deploy this project?
+**Key Capabilities:**
+- AI-assisted inbound scheduling
+- Real-time availability checks
+- Calendar synchronization
+- Email confirmations
+- Rescheduling and cancellation handling
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+**Business Benefits:**
+- Reduce missed appointments
+- Eliminate manual scheduling
+- Improve response time
+- Operate 24/7
 
-## Can I connect a custom domain to my Lovable project?
+## Why FootPrint Creator.ai
 
-Yes, you can!
+Built for Real-World AI Adoption. Organizations choose FootPrint Creator.ai because we focus on responsible and practical AI implementation.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+**What sets us apart:**
+- Business-first AI design
+- Human-in-the-loop workflows
+- Scalable automation solutions
+- Transparent and measurable outcomes
+- Responsible AI deployment
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+We build AI that supports teams — not replaces them blindly.
+
+## Who We Work With
+
+FootPrint Creator.ai supports organizations at different stages of AI adoption, including:
+
+- Small and mid-sized businesses
+- Startups and growth companies
+- Healthcare providers
+- Professional services firms
+- Sales and marketing teams
+- Organizations exploring AI automation
+
+## Get Started
+
+**Ready to Build a Smarter Business Footprint?**
+
+Whether you're looking to automate content creation, scale communication, or streamline scheduling, FootPrint Creator.ai can help you implement AI with clarity and control.
+
+- **Contact Us**
+- **Request a Demo**
+- **Email: Hello@ai.footprint-creator.io**
