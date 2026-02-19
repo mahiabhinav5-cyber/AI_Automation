@@ -61,6 +61,13 @@ Once secrets are configured:
 - **Deploy**: The `dist` folder is uploaded to Hostinger's `public_html` directory via FTP
 - **Time**: Typically completes in 2-5 minutes
 
+## Cache Refresh Behavior
+
+- `public/.htaccess` is deployed with every build to control browser caching.
+- `index.html` is marked `no-cache`, so browsers check for updates quickly.
+- Static assets (`js`, `css`, images, fonts) are cached for a long time, but Vite uses hashed filenames, so new deploys automatically load new files.
+- If a user still sees old content, use a hard refresh (`Ctrl+Shift+R`).
+
 ## Manual Deployment
 
 You can also trigger deployment manually:
