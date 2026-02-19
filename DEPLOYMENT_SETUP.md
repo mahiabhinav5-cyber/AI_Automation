@@ -9,6 +9,7 @@ You need the following information from Hostinger:
 2. FTP Username
 3. FTP Password
 
+**Note:** Never commit your actual credentials to git. Add them as GitHub Secrets instead.
 ## Setup Instructions
 
 ### Step 1: Get Your Hostinger FTP Credentials
