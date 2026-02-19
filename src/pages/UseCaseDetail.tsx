@@ -1,7 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, CheckCircle2 } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
-import { Footer } from "@/components/Footer";
+import Footer from "@/components/Footer";
 import { useCases } from "@/data/siteData";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";

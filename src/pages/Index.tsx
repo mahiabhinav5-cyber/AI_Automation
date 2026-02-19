@@ -3,7 +3,7 @@ import { HeroSection } from "@/components/HeroSection";
 import { ServicesSection } from "@/components/ServicesSection";
 import { FeaturedUseCases } from "@/components/FeaturedUseCases";
 import { TestimonialsSection } from "@/components/TestimonialsSection";
-import { Footer } from "@/components/Footer";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
